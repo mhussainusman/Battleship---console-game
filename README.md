@@ -68,7 +68,7 @@ Battleship is a classic strategy game where two players place their fleets on a 
 
 - **Language:** C++
 - **Library:** Windows.h (console colors)
-- **IDE:** Code::Blocks / Dev-C++
+- **IDE:** Dev-C++
 
 ---
 
@@ -86,7 +86,7 @@ Battleship/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/mhussainusman/Battleship.git
+git clone https://github.com/mhussainusman/Battleship---console-game.git
 ```
 
 2. Compile:
